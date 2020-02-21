@@ -6,3 +6,4 @@
   * Returns 1 on success, -1 on error, and 0 when file has been completely read
   * Note: Calling the function will return the next line in the file. 
 
+## Usage
