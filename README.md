@@ -1,4 +1,5 @@
 # Get_Next_Line
+* Download Instructions: [get_next_line.en.pdf](https://github.com/VincentZ 42/get_next_line/files/4238468/get_next_line.en.pdf)
 
 ## Objective
 * Gain a deeper understanding of memory allocations (whether in stack or in heap), manipulation of a buffer, and the use of static variables in C
