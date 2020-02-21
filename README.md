@@ -3,7 +3,7 @@
 
 ### Table of Contents
 * [Objective](#objective)
-* [usage](#usage)
+* [Usage](#usage)
 
 ## Objective
 * Gain a deeper understanding of memory allocations (whether in stack or in heap), manipulation of a buffer, and the use of static variables in C
