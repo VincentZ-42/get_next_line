@@ -12,3 +12,13 @@
   * Note: Calling the function will return the next line in the file. 
 
 ## Usage
+1. Open terminal and clone repository into desired directory location
+ * Ex. type "git clone https://github.com/VincentZ-42/get_next_line.git folder_name" in command line
+2. Open directory containing all files
+3. Type "make" into command line to create executable program
+ * *Note: you should see the executable "test_gnl" being created after a few seconds of compiling*
+3. Run executable program with the file path as an argument of the program
+ * Ex. type "./test_gnl Ralph_statement"
+ * *Note: main program is made to display run function until entire file is read, you will need to modify file if you only wish to read a single line*
+ 4. type "make fclean" into command line to erase executable program
+ 5. Extra: you can simply use the get_next_line() function by including its prototype into a header file or into your own program and include the source code. However, functions from the library is used in this function, so you will need to include that as well
