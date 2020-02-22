@@ -19,6 +19,6 @@
  * **Note: you should see the executable "test_gnl" being created after a few seconds of compiling**
 3. Run executable program with the file path as an argument of the program
  * Ex. type "./test_gnl Ralph_statement"
- * **Note: main program is made to display run function until entire file is read, you will need to modify file if you only wish to read a single line**
+ * **Note: main program is made to run function until entire file is read and displayed on the terminal, you will need to modify file if you only wish to read a single line**
  4. type "make fclean" into command line to erase executable program
  5. Extra: you can simply use the get_next_line() function by including its prototype into a header file or into your own program and include the source code. However, functions from the library is used in this function, so you will need to include that as well
