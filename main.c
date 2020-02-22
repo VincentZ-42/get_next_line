@@ -6,7 +6,7 @@
 /*   By: vzhao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/05/22 14:43:19 by vzhao             #+#    #+#             */
-/*   Updated: 2019/06/27 16:21:58 by vzhao            ###   ########.fr       */
+/*   Updated: 2020/02/21 15:49:05 by vzhao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,7 @@ int		main(int ac, char **av)
 		printf("%s\n", line);
 		ft_strdel(&line);
 	}
-	system("leaks test_gnl");
+//	system("leaks test_gnl");
 	close(fd);
 	return (0);
 }
