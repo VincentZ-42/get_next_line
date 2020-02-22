@@ -21,6 +21,6 @@
  * Ex. type "./test_gnl Ralph_statement"
  * **Note: main program is made to run function until entire file is read and displayed on the terminal, you will need to modify file if you only wish to read a single line**
  4. type "make fclean" into command line to erase executable program
- 
-Extra: You can simply use the get_next_line() function by including its prototype into a header file or into your own program and include the source code. However, functions from the library is used in this function, so you will need to include that as well
-Extra: If you would like to see if the program has any memory leaks, you can uncomment the line "system("leaks test_gnl")" and the executable will display the leak information from the program
+ 5. Extra: 
+ * You can simply use the get_next_line() function by including its prototype into a header file or into your own program and include the source code. However, functions from the library is used in this function, so you will need to include that as well
+ * If you would like to see if the program has any memory leaks, you can uncomment the line "system("leaks test_gnl")" and the executable will display the leak information from the program
