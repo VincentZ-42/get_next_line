@@ -1,5 +1,5 @@
 # Get_Next_Line
-* Download Instructions: [get_next_line.en.pdf](https://github.com/VincentZ42/get_next_line/files/4238468/get_next_line.en.pdf)
+* Download Instructions: [get_next_line.en.pdf](https://github.com/VincentZ-42/get_next_line/blob/master/get_next_line.en.pdf)
 
 ### Table of Contents
 * [Objective](#objective)
